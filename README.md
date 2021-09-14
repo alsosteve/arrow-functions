@@ -1,6 +1,6 @@
-# Prep - ES6 Arrow Functions
+# Code 301: Prep
 
-## ES6 Arrow Functions
+## Prep - ES6 Arrow Functions
 
 Arrow functions are a shorter, more concise way to write a JavaScript function. Here I demonstrate my understanding of the class learning.
 
